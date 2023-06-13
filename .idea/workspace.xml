@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a4f0e36-4e83-40cf-bdaf-d48de52043e9" name="Changes" comment="push">
+    <list default="true" id="8a4f0e36-4e83-40cf-bdaf-d48de52043e9" name="Changes" comment="SecondComit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="00c9a287-3317-4463-91b3-719123504e9f" />
+        <option name="url" value="https://github.com/JoySwaroop001/shardaswiggy.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2R8yi5e1CI4vy7MRNIOHWItK0mK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +60,16 @@
       <updated>1686646127059</updated>
       <workItem from="1686646128147" duration="586000" />
       <workItem from="1686646882583" duration="601000" />
+      <workItem from="1686647744362" duration="1588000" />
     </task>
+    <task id="LOCAL-00001" summary="SecondComit">
+      <created>1686647980676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647980676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,17 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="SecondComit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SecondComit" />
   </component>
 </project>
